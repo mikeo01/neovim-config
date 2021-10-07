@@ -1,0 +1,1 @@
+Plug 'kristijanhusak/orgmode.nvim'

@@ -15,6 +15,6 @@ endfor
 call plug#end()
 
 " Config plugins
-for $file in globpath($MYVIMRC_DIR . '/config/plugins', '**/*.vim', 0, 1)
+for $file in globpath($MYVIMRC_DIR . '/config/plugins', '**/*', 0, 1)
     source $file
 endfor

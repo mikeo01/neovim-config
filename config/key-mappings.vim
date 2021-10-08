@@ -11,6 +11,12 @@ nnoremap <leader>tn :tabn<CR> " Next tab
 nnoremap <leader>tp :tabp<CR> " Previous tab
 nnoremap <leader>t :tabe<CR>  " New tab
 
+nnoremap <S-Tab> <<CR>
+nnoremap <Tab> ><CR>
+vnoremap <S-Tab> <<CR>
+vnoremap <Tab> ><CR>
+
+
 " Fern / tree view
 nnoremap <leader>\ :Fern . -drawer -width=20 -stay<CR>
 

@@ -19,3 +19,4 @@ set expandtab
 set autoindent
 set copyindent
 set autochdir
+set completeopt=menu,menuone,noselect

@@ -20,3 +20,4 @@ set autoindent
 set copyindent
 set autochdir
 set completeopt=menu,menuone,noselect
+set termguicolors

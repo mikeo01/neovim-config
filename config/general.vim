@@ -20,5 +20,6 @@ set autoindent
 set copyindent
 set autochdir
 set completeopt=menu,menuone,noselect
+set nowrap
 set termguicolors
 set guifont

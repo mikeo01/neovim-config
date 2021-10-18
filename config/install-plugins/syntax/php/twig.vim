@@ -1,1 +1,0 @@
-Plug 'nelsyeung/twig.vim'

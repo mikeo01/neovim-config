@@ -1,0 +1,25 @@
+syntax enable
+
+set hidden
+set nobackup
+set nowritebackup
+set cmdheight=2
+set shortmess+=c
+set signcolumn=yes
+set nocompatible
+set encoding=utf-8
+set number
+set laststatus=2
+set cursorline
+set showmatch
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set copyindent
+set completeopt=menu,menuone,noselect
+set autochdir
+set nowrap
+set termguicolors
+set guifont

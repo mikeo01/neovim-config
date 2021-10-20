@@ -19,7 +19,7 @@ set expandtab
 set autoindent
 set copyindent
 set completeopt=menu,menuone,noselect
-set autochdir
+set noautochdir
 set nowrap
 set termguicolors
 set guifont

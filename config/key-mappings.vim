@@ -24,7 +24,7 @@ nnoremap <leader>\ :NERDTreeToggle<CR>
 " Telescope
 "nnoremap <leader>p <cmd>Telescope find_files<CR>
 "nnoremap <leader>f <cmd>Telescope live_grep<CR>
-nnoremap <leader>p :Files %:p:h<CR>
+nnoremap <leader>p :GFiles<CR>
 nnoremap <leader>f :Rg<CR>
 
 " Go to any window
